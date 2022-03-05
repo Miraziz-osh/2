@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(74, 240, 231);
+}
+header{
+    border: 3px solid blue;
+    border-radius:20px;
+    padding:2px;
+    background-color: white;
+    color: red;
+}
+ header img {
+    width:50px ;
+    
+}
+h1 {
+    border:2px solid blue; 
+    border-radius: 15px;
+    padding: 2px;
+    color: red;
+}
+footer {
+    background-color: #8fddf2;
+    padding: 10px;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
+}
+nav{
+    background-color:yellow ;
+    color: white;
+}
+main img{
+    background-color: brown;
+    border: 5px solid rgb(119, 189, 236) ;
+}
